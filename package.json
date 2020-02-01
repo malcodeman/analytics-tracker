@@ -1,0 +1,25 @@
+{
+  "name": "analytics-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "parcel src/index.js",
+    "build": "parcel build src/index.js",
+    "lint": "eslint src/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malcodeman/analytics-tracker.git"
+  },
+  "author": "malcodeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malcodeman/analytics-tracker/issues"
+  },
+  "homepage": "https://github.com/malcodeman/analytics-tracker#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "parcel": "^2.0.0-alpha.3.2"
+  }
+}

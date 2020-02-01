@@ -1,1 +1,1 @@
-# -analytics-tracker
+# analytics-tracker
